@@ -1,4 +1,4 @@
 MineCraftBukkitModding
 ======================
 
-[MineCraft-CityWorld]
+[MineCraft-CityWorld](https://github.com/chironfly/MineCraftBukkitModding/wiki/MineCraft-CityWorld)
